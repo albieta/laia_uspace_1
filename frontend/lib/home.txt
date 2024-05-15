@@ -1,0 +1,5 @@
+DronesTrackingHomeWidget
+RoleHomeWidget
+FlightPlanHomeWidget
+AccessRightHomeWidget
+DroneHomeWidget
